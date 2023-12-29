@@ -142,7 +142,7 @@ body {
     right: 400px;
   }
   100% {
-    right: 400px;
+    right: 100px;
     color: yellow;
   }
 }
