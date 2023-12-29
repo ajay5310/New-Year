@@ -318,9 +318,9 @@ canvas {
 @media screen and (max-width: 600px) 
 {
 .year > span {
-  font-size: 175px;
+  font-size: 100px;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-  letter-spacing: -12px;
+  letter-spacing: -5px;
 }
 }
