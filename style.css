@@ -93,7 +93,7 @@ body {
 .old {
   color: #fff;
   position: absolute;
-  top: 0%;
+  top: 250%;
   animation: old_animation 2.5s ease-in-out 2s forwards;
   margin-left: -80px;
 }
